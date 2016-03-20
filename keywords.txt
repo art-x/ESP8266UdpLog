@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For UdpLog
+#######################################
+
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+Udplog	KEYWORD3
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UdpLog	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+UdpLog	KEYWORD2
+localIP	KEYWORD2
+serverIP	KEYWORD2
+log	KEYWORD2
